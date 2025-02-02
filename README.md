@@ -9,7 +9,7 @@
 
 ## Subdirectories
 - maps/map_name/maps* - the maps itself.
-- maps/icon&screenshots - the icon and screenshots that I used when re-uploading to the steam workshop.
+- maps/map_name/icon&screenshots - the icon and screenshots that I used when re-uploading to the steam workshop.
 
 ## FAQ
 - Q: I have an old hard drive with some maps on it.
