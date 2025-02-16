@@ -16,4 +16,4 @@
 - A: Say no more. Just send everything to Белый Рыцарь (Discord: .whiteknight. or [Steam](https://steamcommunity.com/profiles/76561198331898065)). I will look through them. Or, if you prefer, pull requests are open.
 
 ## Lost Maps/Versions
-- I will make excel table in a future.
+- [Full List Here](https://docs.google.com/spreadsheets/d/1Ez3tkkIQRjdc442RFA_7OMJsx_buAYt1ScpFPELRM6s/edit?usp=sharing)
